@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "13e2be10384a790794211064",
+  "owner": "ubwphwap",
+  "repo": "page-0024ce3dbdf2fd47db7d47fa",
+  "title": "速雷",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0024ce3dbdf2fd47db7d47fa",
+      "a": "速雷",
+      "b": "",
+      "entity": "速雷",
+      "brand": "速雷",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a9cb872e4e29e2070afaa427cbe47440348f7442f3db271a2e067b90c7772f8e",
+      "content": {
+        "keyword1": "速雷",
+        "keyword2": "",
+        "primary_entity": "速雷",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "速雷机场信息整理页：速雷三档套餐价格与权益逐条列出，并说明速雷机场客户端的获取方式、使用步骤与常见问题，价格以实际开通页面为准。",
+          "AI_DESCRIPTION": "速雷机场信息整理页：速雷三档套餐价格与权益逐条列出，并说明速雷机场客户端的获取方式、使用步骤与常见问题，价格以实际开通页面为准。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root{--cream:#f7f2e8;--cream-2:#fffdf7;--brick:#a83f2c;--brick-lt:#c8603f;--ink:#1d1a17;--ink-soft:#5c544a;--line:#ddd3c2}\n  *{box-sizing:border-box}\n  html{-webkit-text-size-adjust:100%}\n  body{margin:0;padding-bottom:96px;background:var(--cream);color:var(--ink);font-family:\"Noto Sans SC\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",system-ui,-apple-system,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.78}\n  h1,h2,h3{font-weight:800;letter-spacing:-.01em}\n  a{color:var(--brick)}\n  main{max-width:1080px;margin:0 auto;padding:0 24px}\n  .hero{padding:44px 0 60px;border-bottom:1px solid var(--line)}\n  .hero-top{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between;font-size:.78rem;letter-spacing:.16em;color:var(--ink-soft);margin:0}\n  .hero-top p{margin:0}\n  .brand{margin:26px 0 0;font-size:clamp(4.6rem,36vw,20rem);line-height:.82;letter-spacing:-.04em;font-weight:900;color:var(--brick)}\n  .hero-rule{height:6px;background:var(--brick);margin-top:20px}\n  .hero-body{display:grid;grid-template-columns:1.4fr .6fr;gap:32px 48px;margin-top:38px;align-items:start}\n  .lede{margin:0;font-size:1.06rem;max-width:44ch}\n  .index-list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}\n  .index-list li{border-bottom:1px solid var(--line)}\n  .index-list a{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:10px 0;font-size:.92rem;color:var(--ink);text-decoration:none}\n  .index-list a::after{content:\"→\";color:var(--brick);font-size:.9rem}\n  .section{padding:72px 0;border-bottom:1px solid var(--line)}\n  .sec-num{display:block;font-size:.76rem;letter-spacing:.22em;color:var(--brick);margin-bottom:10px;font-weight:700}\n  .section h2{margin:0;font-size:clamp(1.55rem,3.2vw,2.25rem);line-height:1.25}\n  .note{margin:14px 0 0;font-size:.9rem;color:var(--ink-soft);max-width:62ch}\n  .cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 48px;margin-top:26px}\n  .cols p{margin:0}\n  .plan-list{margin-top:38px;border-top:1px solid var(--line)}\n  .plan{display:grid;grid-template-columns:230px minmax(0,1fr);gap:20px 40px;padding:30px 0 32px 22px;border-left:6px solid var(--brick);border-bottom:1px solid var(--line);background:var(--cream-2)}\n  .plan.featured{border-left-color:var(--brick-lt)}\n  .plan-head h3{margin:0 0 8px;font-size:1.28rem}\n  .tag{display:inline-block;margin-left:8px;padding:1px 8px;font-size:.7rem;letter-spacing:.12em;font-weight:700;background:var(--brick);color:#fff8ef;vertical-align:middle}\n  .price{margin:0;font-size:2rem;font-weight:800;line-height:1.1;color:var(--brick)}\n  .price span{font-size:.92rem;font-weight:500;color:var(--ink-soft);margin-left:2px}\n  .annual{margin:8px 0 0;font-size:.88rem;color:var(--ink-soft)}\n  .feature-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 26px;align-content:start}\n  .feature-list li{position:relative;padding-left:18px;font-size:.94rem}\n  .feature-list li::before{content:\"\";position:absolute;left:0;top:.72em;width:9px;height:2px;background:var(--brick)}\n  .card-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(238px,1fr));gap:20px;margin-top:30px}\n  .card{background:var(--cream-2);border-left:5px solid var(--brick);padding:20px 22px 22px}\n  .card h3{margin:0 0 8px;font-size:1.02rem}\n  .card p{margin:0;font-size:.93rem;color:var(--ink-soft)}\n  .steps{list-style:none;counter-reset:step;margin:30px 0 0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}\n  .steps li{counter-increment:step;position:relative;background:var(--cream-2);border-left:5px solid var(--brick);padding:20px 22px 22px 62px}\n  .steps li::before{content:counter(step,decimal-leading-zero);position:absolute;left:18px;top:19px;font-size:1.32rem;font-weight:800;line-height:1;color:var(--brick);letter-spacing:-.02em}\n  .steps h3{margin:0 0 6px;font-size:1rem}\n  .steps p{margin:0;font-size:.92rem;color:var(--ink-soft)}\n  .faq{list-style:none;counter-reset:q;margin:34px 0 0;padding:0;border-top:1px solid var(--line)}\n  .faq li{counter-increment:q;position:relative;padding:24px 0 24px 54px;border-bottom:1px solid var(--line)}\n  .faq li::before{content:counter(q);position:absolute;left:0;top:20px;font-size:1.5rem;font-weight:800;line-height:1.2;color:var(--brick);opacity:.72}\n  .faq h3{margin:0 0 6px;font-size:1.04rem}\n  .faq p{margin:0;font-size:.94rem;color:var(--ink-soft)}\n  .foot{max-width:1080px;margin:0 auto;padding:34px 24px 8px;font-size:.84rem;line-height:1.7;color:var(--ink-soft)}\n  .foot p{margin:0}\n  .dock{position:fixed;left:0;right:0;bottom:0;z-index:10;background:rgba(247,242,232,.95);border-top:1px solid var(--line);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}\n  .dock-inner{max-width:1080px;margin:0 auto;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:flex;flex-wrap:wrap;justify-content:center;gap:2px 2px}\n  .dock a{padding:6px 12px;font-size:.85rem;letter-spacing:.04em;color:var(--ink-soft);text-decoration:none;border-radius:2px}\n  .dock a:hover,\n  .dock a:focus{color:var(--brick);background:#f0e7d7}\n  @media (max-width:860px){\n    .hero-body{grid-template-columns:1fr;gap:26px}\n    .cols{grid-template-columns:1fr}\n    .plan{grid-template-columns:1fr;gap:16px}\n    .steps{grid-template-columns:1fr}\n  }\n  @media (max-width:560px){\n    body{font-size:15.5px;padding-bottom:104px}\n    main{padding:0 18px}\n    .hero{padding:30px 0 44px}\n    .section{padding:52px 0}\n    .feature-list{grid-template-columns:1fr}\n    .faq li{padding-left:42px}\n    .faq li::before{font-size:1.25rem;top:22px}\n    .steps li{padding:18px 18px 20px 56px}\n    .steps li::before{left:16px;top:17px;font-size:1.18rem}\n    .plan{padding:24px 0 26px 18px}\n    .foot{padding:30px 18px 8px}\n  }\n</style><main>\n\n  <section class=\"hero\" id=\"top\">\n    <div class=\"hero-top\">\n      <p>速雷 · 机场套餐 / 客户端 / 使用说明</p>\n      <p>信息整理页</p>\n    </div>\n    <h1 class=\"brand\">速雷</h1>\n    <div class=\"hero-rule\"></div>\n    <div class=\"hero-body\">\n      <p class=\"lede\">把“速雷”敲进搜索框的人，多半只关心三件事：多少钱、客户端往哪儿找、出问题怎么办。这一页就按这个顺序来写。能把话说清楚的地方写清楚，没有依据的地方直接标注，不补、不猜、不替你做决定。</p>\n      <ul class=\"index-list\">\n        <li><a href=\"#plans\">套餐与价格</a></li>\n        <li><a href=\"#clients\">机场客户端</a></li>\n        <li><a href=\"#guide\">使用说明</a></li>\n        <li><a href=\"#faq\">常见问题</a></li>\n      </ul>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"overview\">\n    <span class=\"sec-num\">01 / 导读</span>\n    <h2>这一页怎么读</h2>\n    <div class=\"cols\">\n      <p>先说清楚定位：这不是产品说明书，也不是宣传页。它更像一张整理过的索引——套餐部分把三档价位与权益并排列出，客户端部分只讲获取路径和注意事项，使用说明部分给出一套通用流程，最后用一组问答收尾。</p>\n      <p>只关心价格，直接跳到套餐；已经开通、在找客户端入口，跳到客户端；第一次接触、不清楚该先做什么，从使用说明读起更省事。手机浏览时，页面底部有一条常驻的文字导航，随时可以跳回任意一段。</p>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"plans\">\n    <span class=\"sec-num\">02 / 套餐</span>\n    <h2>套餐与价格</h2>\n    <p class=\"note\">以下三档的名称、价格与权益整理自现有参考信息。价格可能随活动或政策调整，实际开通时以你下单页面显示的内容为准；本页不构成下单承诺，也不代收任何费用。</p>\n\n    <div class=\"plan-list\">\n\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <h3>基础版</h3>\n          <p class=\"price\">¥15<span>/月</span></p>\n          <p class=\"annual\">按年付 ¥150/年</p>\n        </div>\n        <ul class=\"feature-list\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"plan featured\">\n        <div class=\"plan-head\">\n          <h3>旗舰版<span class=\"tag\">推荐</span></h3>\n          <p class=\"price\">¥35<span>/月</span></p>\n          <p class=\"annual\">按年付 ¥350/年</p>\n        </div>\n        <ul class=\"feature-list\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7×24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <h3>团队版</h3>\n          <p class=\"price\">¥85<span>/月</span></p>\n          <p class=\"annual\">按年付 ¥850/年</p>\n        </div>\n        <ul class=\"feature-list\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"clients\">\n    <span class=\"sec-num\">03 / 客户端</span>\n    <h2>机场客户端：在哪儿拿，拿的时候注意什么</h2>\n    <p class=\"note\">本页不提供任何下载地址。在没有可确认的官方渠道时，随手给一个看起来像链接的东西，只会给人添麻烦。能写清楚的是获取路径和判断标准。</p>\n\n    <div class=\"card-list\">\n      <article class=\"card\">\n        <h3>获取入口</h3>\n        <p>客户端与订阅配置一般随账户一同提供。开通之后进入账户页面，按页面上的指引获取即可。陌生群聊里转发的安装包、来路不明的下载站，不建议直接安装。</p>\n      </article>\n      <article class=\"card\">\n        <h3>平台与版本</h3>\n        <p>不同客户端适配的系统与版本并不统一，本页不逐一列举，也不做兼容性承诺。选之前先看清自己设备的系统版本，再对照对应客户端说明里的要求。</p>\n      </article>\n      <article class=\"card\">\n        <h3>配置方式</h3>\n        <p>导入订阅信息是常见做法。配置完成后先做一次小流量测试，确认日常用途可用，再给其他设备依次配置，出问题时也更容易定位是哪一步。</p>\n      </article>\n      <article class=\"card\">\n        <h3>设备数量</h3>\n        <p>同时在线的台数受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。若提示超出上限，先检查有没有旧设备在后台保持连接。</p>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"guide\">\n    <span class=\"sec-num\">04 / 使用说明</span>\n    <h2>从选套餐到跑通，五步</h2>\n    <p class=\"note\">下面这套流程不依赖具体设备，也不涉及任何本页无法核实的操作细节，按顺序走一遍即可。</p>\n\n    <ol class=\"steps\">\n      <li>\n        <h3>先确认需求</h3>\n        <p>想清楚用在哪几台设备上、大概每月需要多少流量、是否需要按年付。这三件事定下来，套餐范围基本就缩小了。</p>\n      </li>\n      <li>\n        <h3>对照套餐核价</h3>\n        <p>按流量和设备数选档位，再比较月付与年付的差别。年付的月均成本更低，但要一次付清；先月付验证，再考虑年付更稳妥。</p>\n      </li>\n      <li>\n        <h3>获取客户端与订阅</h3>\n        <p>开通后在账户页面获取客户端与订阅信息，按说明完成导入。安装包只从你能确认来源的地方取。</p>\n      </li>\n      <li>\n        <h3>先测试再铺开</h3>\n        <p>在主力设备上跑一遍日常用途，确认顺畅后再配置其他设备。这样一旦出问题，很容易判断是单台设备还是整体的问题。</p>\n      </li>\n      <li>\n        <h3>出问题留好信息</h3>\n        <p>记录发生时间、设备型号、所用客户端和具体现象，反馈时一并说明。比起只说“连不上”，这些信息更容易被快速处理。</p>\n      </li>\n    </ol>\n  </section>\n\n  <section class=\"section\" id=\"faq\">\n    <span class=\"sec-num\">05 / 问答</span>\n    <h2>常见问题</h2>\n    <p class=\"note\">下面这些问题，是按搜索与咨询里出现频率最高的几类整理的。</p>\n\n    <ol class=\"faq\">\n      <li>\n        <h3>速雷的套餐怎么选？</h3>\n        <p>按流量和同时在线的设备数量来选。基础版每月 100GB、3 台设备，适合一个人日常使用；旗舰版每月 300GB、5 台设备，多了全节点流媒体解锁和游戏加速线路；团队版每月 1000GB、20 台设备，面向多人共用或需要定制路由的情况。如果拿不准，从低一档开始用，不够再升。</p>\n      </li>\n      <li>\n        <h3>月付和年付差在哪儿？</h3>\n        <p>同一档套餐按年付的总价低于十二个月月付之和：基础版 ¥150/年，而月付十二个月是 ¥180；旗舰版 ¥350/年，对应月付十二个月 ¥420；团队版 ¥850/年，对应月付十二个月 ¥1020。代价是一次付清、周期更长，所以更建议先用月付确认可用，再决定是否改按年付。</p>\n      </li>\n      <li>\n        <h3>同时在线的设备数怎么算？</h3>\n        <p>基础版 3 台、旗舰版 5 台、团队版 20 台，指的是同一时间处于连接状态的设备数量。断开连接或退出客户端后，通常不再占用名额。收到超限提示时，先看看有没有旧设备还在后台运行。</p>\n      </li>\n      <li>\n        <h3>客户端从哪里下载？</h3>\n        <p>本页不提供下载链接，也不代为确认任何第三方下载站。客户端与订阅信息一般在开通后的账户页面获取。别人转发来的安装包，来源不明确的建议不要直接安装。</p>\n      </li>\n      <li>\n        <h3>页面上写的价格是最终价格吗？</h3>\n        <p>本页价格属于参考信息整理，可能随活动或政策变化。下单时请以实际页面显示的价格、周期与权益为准；两者不一致时，以实际页面为准。</p>\n      </li>\n      <li>\n        <h3>团队版适合什么情况？</h3>\n        <p>多人共用、设备数量多（最多 20 台同时在线）、需要更高带宽的专属节点或企业定制路由时，团队版更合适。它额外包含专属客户经理服务，适合有固定对接人的使用场景。只是两三个人用，旗舰版通常就够。</p>\n      </li>\n      <li>\n        <h3>连接不稳定时该怎么办？</h3>\n        <p>先判断是单台设备还是所有设备都有问题，再尝试切换线路或重启客户端。反馈问题时附上时间、设备、客户端和具体现象，信息越具体，定位越快。</p>\n      </li>\n      <li>\n        <h3>这个页面是速雷的官方页面吗？</h3>\n        <p>不是。本页围绕“速雷”这一关键词，整理套餐、客户端与使用说明方面的信息，标题里的“官网”是搜索用词，不代表本页由品牌方运营、授权或为唯一入口。涉及实际开通与付费的操作，请以你能直接确认的渠道为准。</p>\n      </li>\n    </ol>\n  </section>\n\n</main>\n\n<footer class=\"foot\">\n  <p>本页为围绕“速雷”整理的信息页，内容以套餐整理、客户端获取路径与通用使用流程为主。页面标题中的“官网”为搜索用词，不代表本页由品牌方运营或授权。套餐价格、权益与客户端信息请以实际开通页面显示为准。</p>\n</footer>\n\n<nav class=\"dock\" aria-label=\"页面内导航\">\n  <div class=\"dock-inner\">\n    <a href=\"#top\">顶部</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#guide\">使用说明</a>\n    <a href=\"#faq\">常见问题</a>\n  </div>\n</nav>",
+          "hash": "3d6ffd2e3af46f96111f5b82f8082cd89cddcf9240f355dc7ad52b283d309071",
+          "seo": {
+            "title": "速雷官网｜速雷机场套餐、客户端与使用说明",
+            "keywords": "速雷,速雷官网,速雷机场,速雷机场官网,机场套餐,机场客户端,机场使用说明",
+            "description": "速雷机场信息整理页：速雷三档套餐价格与权益逐条列出，并说明速雷机场客户端的获取方式、使用步骤与常见问题，价格以实际开通页面为准。"
+          },
+          "provider": "deepseek",
+          "model": "deepseek-v4.1-flash-1017",
+          "design": {
+            "no": "3681",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "2 米白配砖红",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sykhx.cn",
+    "host": "p-35599a2623.sykhx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "45706eee61a9d170277432a5f1a8e0ff4e2fa3e0f5c74f7416409d1ec8887d56",
+    "sitemap.xml": "669f33974b9d40d07a512489146a109953e4b472f1115d79050febc6924d8013",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "564b2db5858603ed4d84e362111b3a8d2991b01ddcd402667782211fee53f5db",
+    "robots.txt": "92ded0c5130093ce0177e21e0c5070e81a588c195acfbbcf57c0d7103e4a49e1",
+    "a298968338db12b017f67495039e8c99.txt": "780bfc1266078942e82af54f353df86b1422c03633bd4bf8d2478e79abc1cff0"
+  },
+  "revision": "676b6a73bcebd678045dc389c0ec536e21eb3416fa01417970b8742d847c22f2"
+}
